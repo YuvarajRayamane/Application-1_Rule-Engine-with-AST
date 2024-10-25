@@ -1,5 +1,7 @@
 # Rule Engine Project
 
+This is a simple 3-tier rule engine application(Simple UI, API and Backend, Data) to determine user eligibility based on attributes like age, department, income, spend etc.The system use Abstract Syntax Tree (AST) to represent conditional rules and allow for dynamic creation,combination, and modification of these rules.
+
 This project implements a rule-based engine where users can create custom rules and evaluate them against specific data sets. It features a **Flask** backend for handling rule creation and evaluation, **MongoDB** for storing the rules, and a **React** frontend for user interaction.
 
 ## Features
