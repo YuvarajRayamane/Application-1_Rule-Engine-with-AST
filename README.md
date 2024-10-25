@@ -43,13 +43,6 @@ This project implements a rule-based engine where users can create custom rules 
 - **Python 3.x** (for running the Flask backend)
 - **MongoDB** (ensure MongoDB is running locally or remotely)
   
-### Installation
-
-Clone the repository to your local machine:
-```bash
-git clone https://github.com/yourusername/rule-engine-project.git
-cd rule-engine-project
-```
 
 ## Backend Setup
 
